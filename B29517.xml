@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation prohibiting all ecclesiastical meetings in synods or presbyteries, until authorized and ordered by the archbishop and bishops.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29517</idno><idno type="EEBO-CITATION">99886162</idno>
+  <idno type="VID">188323</idno>
+  <idno type="EEBO-PROQUEST">2248536004</idno>
+  
+            <idno type="STC">Wing S1967</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[169]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.1[28]</idno>
+            <idno type="STC">ESTC R225545</idno>
+            <idno type="STC">ESTC R228825</idno>
+            <idno type="STC">ESTC R225545</idno>
+            <idno type="STC">ESTC R228825</idno>
+            <idno type="PROQUEST">ocm99886162</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886162e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29517)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188323)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:1[169]; C9:3[134])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation prohibiting all ecclesiastical meetings in synods or presbyteries, until authorized and ordered by the archbishop and bishops.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1649-1685 : Charles II).</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Edinburgh, and re-printed at London for Richard Thrale at the Crosse Keys entring into St. Pauls church yard,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1662 i.e. 1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing CD-ROM, 1996.</note>
+                  <note>Dates are given according to Lady Day dating.</note>
+                  <note>Arms 35; Steele notation: Letter, Authority Cross.</note>
+                  <note>Dated at end: At Edinburgh, the ninth day of January, one thousand six hundred and sixty two.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  Church history --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:188323:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>A PROCLAMATION Prohibiting all Ecclesiastical Meetings in Synods or Presbyteries, until Authorized and Ordered by the ARCHBISHOP and BISHOPS.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Lords of His <hi>Majesties</hi> Privy Council having considered His <hi>Majesties</hi> Letter, of the date at <hi>Whitehall</hi> the Twenty Eight of <hi>December</hi> last, one thousand six hun<g ref="char:EOLhyphen"/>dred and sixty one; bearing, that whereas by the advice and consent of the Parli<g ref="char:EOLhyphen"/>ament, His <hi>Majesty</hi> did allow the administration of the Church Government of this Kingdom by Sessions, Presbyteries and Synods, notwithstanding of the Act Rescissory, untill His <hi>Majesty</hi> should take care for the better setling of the Go<g ref="char:EOLhyphen"/>vernment thereof. And that having, by a late Proclamation, of the date the sixth of <hi>September,</hi> one thousand six hundred and sixty one, declared His Royal pleasure for restoring the ancient and legal Government of the Church, by Archbishops and Bishops, as it was exercised in the year one thousand six hundred and thirty seven; and that in pursuance of that resolution, His <hi>Majesty</hi> hath nominated and presen<g ref="char:EOLhyphen"/>ted persons to the several Bishopricks of this Kingdom: of whom some have been lately consecrated and invested with the same Dignities, Church-power and Authority, which was formerly competent to the Archbishops and Bishops of this Church, in the reigns of His Royal Grand-father and Father of blessed memory; and that the allowance of the ad<g ref="char:EOLhyphen"/>ministration of this Church, in the way it hath been, since the violent interruption of Episcopal Government, being in<g ref="char:EOLhyphen"/>consistent with the same now established, is now of it self void and expired, as being only for a time till His <hi>Majesty</hi> should settle and secure Church Government in a frame most suteable to Monarchy, and complying with the peace of the Kingdom, and so the said allowance should be of no further force and continuance, but the jurisdiction and exercise of Church Government should be ordered in the respective Synods, Presbyteries and Sessions of this Church, by the Appointment and Authority of the Archbishops and Bishops thereof, according to the standing Laws and their known Priviledge and Practice conform thereto. And that special care be taken that all due reverence and respect be given by all the Subjects to the Arch-bishops and Bishops of the Church, and that they have all countenance, assistance and incouragement from the Nobility, Gentry and others, in the discharge of their Office and Service to His <hi>Majesty</hi> in the Church. And that strict notice be taken of all and every one who shall presume to reflect or express any dis-respect to their Persons, Function or Authority, with which they are invested: which His <hi>Majesty</hi> requires to be intimate to the whole Lieges by Proclamation, discharging all Ecclesiastical Meetings in Synods, Presbyteries or Sessions, until they be authorized and ordered by the Archbishops and Bishops upon their entry unto the Government of their respective Seas, which is to be done speedily. Therefore in obedience of, and conform to, His <hi>Majesties</hi> Royal pleasure and command, have Ordained, and by these presents ordain the Lyon King at Arms and his brethren Heraulds, Purse<g ref="char:EOLhyphen"/>vants, and Messengers at Arms, to pass to the Mercat Crosse of <hi>Edinburgh,</hi> and there by open Proclamation to make publication of His <hi>Majesties</hi> Royal pleasure foresaid, discharging all Ecclesiastical Meetings in Synods, Presbyteries and Sessions, until they be authorized and ordered by the Archbishops and Bishops, upon their entring unto the Go<g ref="char:EOLhyphen"/>vernment of their respective Seas, as said is; and to require all His <hi>Majesties</hi> Subjects of whatsoever rank, quality or degree they be, to give all due reverence and respect unto the Archbishops and Bishops; and that all the Nobility, Gentry and Borroughs, Sheriffs of Shires, Stewarts of Stewartries, Baylies of Regalities, Magistrates of Burghs, Iustices of Peace, and other publick Ministers within their respective bounds and jurisdictions, at all times give all countenance, assistance and encouragement to them, in the discharge of their Office and Service to His <hi>Majesty</hi> in the Church; with certification, that if any shall presume to reflect or express any dis-respect to their Per<g ref="char:EOLhyphen"/>sons, Function or Authority, with which they are invested, they shall be severely and exemplarly punished, according to the nature and quality of their offence. And Ordains these presents to be printed, and published at the Mercat Cross of <hi>Edinburgh,</hi> as said is, and other places needfull, that none may pretend ignorance.</p>
+            <closer>
+               <dateline>At <hi>Edinburgh,</hi>
+                  <date>the Ninth day of <hi>January,</hi> one thousand six hundred and sixty two.</date>
+               </dateline>
+               <signed>
+                  <hi>Pet. Wedderburne,</hi> Cl. S<seg rend="sup">ti.</seg> Concilii.</signed>
+               <lb/> GOD SAƲE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>Edinburgh,</hi> and Re-printed at <hi>London</hi> for <hi>Richard Thrale</hi> at the <hi>Crosse Keys</hi> entring into St. <hi>Pauls Church Yard.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
